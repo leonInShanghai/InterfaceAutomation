@@ -7,7 +7,7 @@
 
 　　使用fastjson框架解析数据
 
-
+```json
  　　{
    　　　　 "avatar_large": "//cdn.v2ex.com/navatar/8613/985e/90_large.png?m=1564378564",
  　　　　   "name": "python",
@@ -24,7 +24,7 @@
  　　　　   "id": 90,
  　　　　   "parent_node_name": "programming"
 　　} 
- 
+ ```
 
 　　对请求回来的参数做断言 assertEquals(v2exNode.getName(),nodeName);
 
@@ -33,5 +33,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/leonInShanghai/InterfaceAutomation/blob/master/Json%E5%AF%B9%E8%B1%A1%E8%BD%ACJava%E5%AF%B9%E8%B1%A1%E6%8F%92%E4%BB%B6/QQ%E5%9B%BE%E7%89%8720190804183337.png?raw=true">
+  <img src="https://github.com/leonInShanghai/InterfaceAutomation/blob/master/Json%E5%AF%B9%E8%B1%A1%E8%BD%ACJava%E5%AF%B9%E8%B1%A1%E6%8F%92%E4%BB%B6/QQ%E5%9B%BE%E7%89%8720190804183337.png?raw=true" style="width:100%;height:100%;">
 </div>
