@@ -7,7 +7,7 @@
 
 　　使用fastjson框架解析数据
 
-```json
+```java
  　　{
    　　　　 "avatar_large": "//cdn.v2ex.com/navatar/8613/985e/90_large.png?m=1564378564",
  　　　　   "name": "python",
